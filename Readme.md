@@ -32,4 +32,4 @@ Build :
   ```
 
 Graph Arch.
-![Graph](./doc/graph.svg)
+![Graph](./doc/graph.png)
