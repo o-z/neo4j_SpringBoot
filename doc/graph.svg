@@ -1,1 +1,749 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="1366.7681884765625" height="822.4039916992188" viewBox="-896.6902465820312 -427.38226318359375 1366.7681884765625 822.4039916992188"><title>Neo4j Graph Visualization</title><desc>Created using Neo4j (http://www.neo4j.com/)</desc><g class="layer relationships"><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(227.66093502737118)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 28.87232330505418 0.5 L 28.87232330505418 -0.5 L 25 -0.5 Z M 108.82154205505418 0.5 L 112.69386536010836 0.5 L 112.69386536010836 3.5 L 119.69386536010836 0 L 112.69386536010836 -3.5 L 112.69386536010836 -0.5 L 108.82154205505418 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="68.84693268005418" y="3" transform="rotate(180 68.84693268005418 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(186.65534774977408)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 26.680065299546712 0.5 L 26.680065299546712 -0.5 L 25 -0.5 Z M 106.62928404954671 0.5 L 108.30934934909342 0.5 L 108.30934934909342 3.5 L 115.30934934909342 0 L 108.30934934909342 -3.5 L 108.30934934909342 -0.5 L 106.62928404954671 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="66.65467467454671" y="3" transform="rotate(180 66.65467467454671 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(433.5607107630748)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 41.34570220436787 0.5 L 41.34570220436787 -0.5 L 25 -0.5 Z M 121.29492095436787 0.5 L 137.64062315873574 0.5 L 137.64062315873574 3.5 L 144.64062315873574 0 L 137.64062315873574 -3.5 L 137.64062315873574 -0.5 L 121.29492095436787 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="81.32031157936787" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(505.7373056078137)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 28.985578761561257 0.5 L 28.985578761561257 -0.5 L 25 -0.5 Z M 108.93479751156126 0.5 L 112.92037627312251 0.5 L 112.92037627312251 3.5 L 119.92037627312251 0 L 112.92037627312251 -3.5 L 112.92037627312251 -0.5 L 108.93479751156126 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="68.96018813656126" y="3" transform="rotate(180 68.96018813656126 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(400.74699504644246)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 46.36323356353529 0.5 L 46.36323356353529 -0.5 L 25 -0.5 Z M 126.31245231353529 0.5 L 147.67568587707058 0.5 L 147.67568587707058 3.5 L 154.67568587707058 0 L 147.67568587707058 -3.5 L 147.67568587707058 -0.5 L 126.31245231353529 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="86.33784293853529" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(468.0855993576684)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 35.74336693738208 0.5 L 35.74336693738208 -0.5 L 25 -0.5 Z M 115.69258568738208 0.5 L 126.43595262476416 0.5 L 126.43595262476416 3.5 L 133.43595262476416 0 L 126.43595262476416 -3.5 L 126.43595262476416 -0.5 L 115.69258568738208 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="75.71797631238208" y="3" transform="rotate(180 75.71797631238208 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(265.9311463607706)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 34.964529169694785 0.5 L 34.964529169694785 -0.5 L 25 -0.5 Z M 114.91374791969479 0.5 L 124.87827708938957 0.5 L 124.87827708938957 3.5 L 131.87827708938957 0 L 124.87827708938957 -3.5 L 124.87827708938957 -0.5 L 114.91374791969479 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="74.93913854469479" y="3" transform="rotate(180 74.93913854469479 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(335.5160572345335)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 40.74572770186907 0.5 L 40.74572770186907 -0.5 L 25 -0.5 Z M 120.69494645186907 0.5 L 136.44067415373814 0.5 L 136.44067415373814 3.5 L 143.44067415373814 0 L 136.44067415373814 -3.5 L 136.44067415373814 -0.5 L 120.69494645186907 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="80.72033707686907" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(301.2082630888353)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 39.564994226799115 0.5 L 39.564994226799115 -0.5 L 25 -0.5 Z M 119.51421297679912 0.5 L 134.07920720359823 0.5 L 134.07920720359823 3.5 L 141.07920720359823 0 L 134.07920720359823 -3.5 L 134.07920720359823 -0.5 L 119.51421297679912 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="79.53960360179912" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-728.326406921989 -46.89106451130937) rotate(368.7336521189043)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 42.37633531907754 0.5 L 42.37633531907754 -0.5 L 25 -0.5 Z M 122.32555406907754 0.5 L 139.70188938815508 0.5 L 139.70188938815508 3.5 L 146.70188938815508 0 L 139.70188938815508 -3.5 L 139.70188938815508 -0.5 L 122.32555406907754 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="82.35094469407754" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(538.5543402599817)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 31.263782357113556 0.5 L 31.263782357113556 -0.5 L 25 -0.5 Z M 111.21300110711356 0.5 L 117.47678346422711 0.5 L 117.47678346422711 3.5 L 124.47678346422711 0 L 117.47678346422711 -3.5 L 117.47678346422711 -0.5 L 111.21300110711356 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="71.23839173211356" y="3" transform="rotate(180 71.23839173211356 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(466.1018506974234)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 39.20157313494981 0.5 L 39.20157313494981 -0.5 L 25 -0.5 Z M 119.15079188494981 0.5 L 133.35236501989962 0.5 L 133.35236501989962 3.5 L 140.35236501989962 0 L 133.35236501989962 -3.5 L 133.35236501989962 -0.5 L 119.15079188494981 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="79.17618250994981" y="3" transform="rotate(180 79.17618250994981 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(217.78007071660915)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 30.350053589470647 0.5 L 30.350053589470647 -0.5 L 25 -0.5 Z M 110.29927233947065 0.5 L 115.6493259289413 0.5 L 115.6493259289413 3.5 L 122.6493259289413 0 L 115.6493259289413 -3.5 L 115.6493259289413 -0.5 L 110.29927233947065 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="70.32466296447065" y="3" transform="rotate(180 70.32466296447065 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(255.92131285167056)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 34.27384841532053 0.5 L 34.27384841532053 -0.5 L 25 -0.5 Z M 114.22306716532053 0.5 L 123.49691558064106 0.5 L 123.49691558064106 3.5 L 130.49691558064106 0 L 123.49691558064106 -3.5 L 123.49691558064106 -0.5 L 114.22306716532053 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="74.24845779032053" y="3" transform="rotate(180 74.24845779032053 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(362.3527497829798)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 38.53112900846416 0.5 L 38.53112900846416 -0.5 L 25 -0.5 Z M 118.48034775846416 0.5 L 132.01147676692833 0.5 L 132.01147676692833 3.5 L 139.01147676692833 0 L 132.01147676692833 -3.5 L 132.01147676692833 -0.5 L 118.48034775846416 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="78.50573838346416" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(292.16032660047506)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 37.73915093504755 0.5 L 37.73915093504755 -0.5 L 25 -0.5 Z M 117.68836968504755 0.5 L 130.4275206200951 0.5 L 130.4275206200951 3.5 L 137.4275206200951 0 L 130.4275206200951 -3.5 L 130.4275206200951 -0.5 L 117.68836968504755 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="77.71376031004755" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(431.41148589853947)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 40.38821624938252 0.5 L 40.38821624938252 -0.5 L 25 -0.5 Z M 120.33743499938252 0.5 L 135.72565124876505 0.5 L 135.72565124876505 3.5 L 142.72565124876505 0 L 135.72565124876505 -3.5 L 135.72565124876505 -0.5 L 120.33743499938252 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="80.36282562438252" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(397.23386356775063)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 38.84317404584304 0.5 L 38.84317404584304 -0.5 L 25 -0.5 Z M 118.79239279584304 0.5 L 132.63556684168609 0.5 L 132.63556684168609 3.5 L 139.63556684168609 0 L 132.63556684168609 -3.5 L 132.63556684168609 -0.5 L 118.79239279584304 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="78.81778342084304" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(327.3911879413892)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 37.440281897030886 0.5 L 37.440281897030886 -0.5 L 25 -0.5 Z M 117.38950064703089 0.5 L 129.82978254406177 0.5 L 129.82978254406177 3.5 L 136.82978254406177 0 L 129.82978254406177 -3.5 L 129.82978254406177 -0.5 L 117.38950064703089 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="77.41489127203089" y="3" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(277.2046191277392 -26.549740060478797) rotate(501.3309397901795)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 35.72162898019103 0.5 L 35.72162898019103 -0.5 L 25 -0.5 Z M 115.67084773019103 0.5 L 126.39247671038206 0.5 L 126.39247671038206 3.5 L 133.39247671038206 0 L 126.39247671038206 -3.5 L 126.39247671038206 -0.5 L 115.67084773019103 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="75.69623835519103" y="3" transform="rotate(180 75.69623835519103 0)" font-family="sans-serif">ATTRIBUTE_VALUE</text></g><g class="relationship" transform="translate(-213.97131524943723 29.075821989485632) rotate(353.5387950023978)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 194.42347014388105 0.5 L 194.42347014388105 -0.5 L 25 -0.5 Z M 292.89222014388105 0.5 L 462.3156902877621 0.5 L 462.3156902877621 3.5 L 469.3156902877621 0 L 462.3156902877621 -3.5 L 462.3156902877621 -0.5 L 292.89222014388105 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="243.65784514388105" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-213.97131524943723 29.075821989485632) rotate(188.4014754951594)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 207.23299226659742 0.5 L 207.23299226659742 -0.5 L 25 -0.5 Z M 305.7017422665974 0.5 L 487.93473453319484 0.5 L 487.93473453319484 3.5 L 494.93473453319484 0 L 487.93473453319484 -3.5 L 487.93473453319484 -0.5 L 305.7017422665974 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="256.4673672665974" y="3" transform="rotate(180 256.4673672665974 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-199.5599195915429 -200.77200596571709) rotate(380.07362912686)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 201.0656561846737 0.5 L 201.0656561846737 -0.5 L 25 -0.5 Z M 299.5344061846737 0.5 L 475.6000623693474 0.5 L 475.6000623693474 3.5 L 482.6000623693474 0 L 475.6000623693474 -3.5 L 475.6000623693474 -0.5 L 299.5344061846737 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="250.3000311846737" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-199.5599195915429 -200.77200596571709) rotate(523.7740157738649)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 222.61691983383298 0.5 L 222.61691983383298 -0.5 L 25 -0.5 Z M 321.085669833833 0.5 L 518.702589667666 0.5 L 518.702589667666 3.5 L 525.702589667666 0 L 518.702589667666 -3.5 L 518.702589667666 -0.5 L 321.085669833833 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="271.851294833833" y="3" transform="rotate(180 271.851294833833 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-199.5599195915429 -200.77200596571709) rotate(453.5877331190526)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 64.56169940958593 0.5 L 64.56169940958593 -0.5 L 25 -0.5 Z M 158.7374806595859 0.5 L 198.29918006917185 0.5 L 198.29918006917185 3.5 L 205.29918006917185 0 L 198.29918006917185 -3.5 L 198.29918006917185 -0.5 L 158.7374806595859 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="111.64959003458593" y="3" transform="rotate(180 111.64959003458593 0)" font-family="sans-serif">CATEGORY_CHILD_OF</text></g><g class="relationship" transform="translate(-223.46089042345747 273.2783704498827) rotate(329.0843317385698)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 239.05443917318462 0.5 L 239.05443917318462 -0.5 L 25 -0.5 Z M 337.5231891731846 0.5 L 551.5776283463692 0.5 L 551.5776283463692 3.5 L 558.5776283463692 0 L 551.5776283463692 -3.5 L 551.5776283463692 -0.5 L 337.5231891731846 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="288.2888141731846" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-223.46089042345747 273.2783704498827) rotate(212.38155302693917)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 246.17934868657562 0.5 L 246.17934868657562 -0.5 L 25 -0.5 Z M 344.6480986865756 0.5 L 565.8274473731512 0.5 L 565.8274473731512 3.5 L 572.8274473731512 0 L 565.8274473731512 -3.5 L 565.8274473731512 -0.5 L 344.6480986865756 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="295.4137236865756" y="3" transform="rotate(180 295.4137236865756 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-223.46089042345747 273.2783704498827) rotate(272.22536242586824)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 71.60553873142648 0.5 L 71.60553873142648 -0.5 L 25 -0.5 Z M 165.78131998142646 0.5 L 212.38685871285296 0.5 L 212.38685871285296 3.5 L 219.38685871285296 0 L 212.38685871285296 -3.5 L 212.38685871285296 -0.5 L 165.78131998142646 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="118.69342935642648" y="3" font-family="sans-serif">CATEGORY_CHILD_OF</text></g><g class="relationship" transform="translate(-194.98017092277655 -398.38226107378085) rotate(398.21945831853066)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 247.77265471734177 0.5 L 247.77265471734177 -0.5 L 25 -0.5 Z M 346.24140471734177 0.5 L 569.0140594346835 0.5 L 569.0140594346835 3.5 L 576.0140594346835 0 L 569.0140594346835 -3.5 L 569.0140594346835 -0.5 L 346.24140471734177 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="297.00702971734177" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-194.98017092277655 -398.38226107378085) rotate(506.61391745164224)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 266.64168418237114 0.5 L 266.64168418237114 -0.5 L 25 -0.5 Z M 365.11043418237114 0.5 L 606.7521183647423 0.5 L 606.7521183647423 3.5 L 613.7521183647423 0 L 606.7521183647423 -3.5 L 606.7521183647423 -0.5 L 365.11043418237114 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="315.87605918237114" y="3" transform="rotate(180 315.87605918237114 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-194.98017092277655 -398.38226107378085) rotate(451.32763001370324)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 48.24376804486033 0.5 L 48.24376804486033 -0.5 L 25 -0.5 Z M 142.41954929486033 0.5 L 165.66331733972066 0.5 L 165.66331733972066 3.5 L 172.66331733972066 0 L 165.66331733972066 -3.5 L 165.66331733972066 -0.5 L 142.41954929486033 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="95.33165866986033" y="3" transform="rotate(180 95.33165866986033 0)" font-family="sans-serif">CATEGORY_CHILD_OF</text></g><g class="relationship" transform="translate(-306.39237101695886 -345.8374219860515) rotate(388.683202845818)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 279.88029347365455 0.5 L 279.88029347365455 -0.5 L 25 -0.5 Z M 378.34904347365455 0.5 L 633.2293369473091 0.5 L 633.2293369473091 3.5 L 640.2293369473091 0 L 633.2293369473091 -3.5 L 633.2293369473091 -0.5 L 378.34904347365455 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="329.11466847365455" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-306.39237101695886 -345.8374219860515) rotate(504.6818773550342)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 205.8179675259011 0.5 L 205.8179675259011 -0.5 L 25 -0.5 Z M 304.2867175259011 0.5 L 485.1046850518022 0.5 L 485.1046850518022 3.5 L 492.1046850518022 0 L 485.1046850518022 -3.5 L 485.1046850518022 -0.5 L 304.2867175259011 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="255.0523425259011" y="3" transform="rotate(180 255.0523425259011 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-306.39237101695886 -345.8374219860515) rotate(413.63046091847474)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 39.49144607703805 0.5 L 39.49144607703805 -0.5 L 25 -0.5 Z M 133.66722732703806 0.5 L 148.1586734040761 0.5 L 148.1586734040761 3.5 L 155.1586734040761 0 L 148.1586734040761 -3.5 L 148.1586734040761 -0.5 L 133.66722732703806 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="86.57933670203805" y="3" font-family="sans-serif">CATEGORY_CHILD_OF</text></g><g class="relationship" transform="translate(-373.01456597010525 -173.2666611928581) rotate(350.9894219870316)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 37.223068744240976 0.5 L 37.223068744240976 -0.5 L 25 -0.5 Z M 131.39884999424098 0.5 L 143.62191873848195 0.5 L 143.62191873848195 3.5 L 150.62191873848195 0 L 143.62191873848195 -3.5 L 143.62191873848195 -0.5 L 131.39884999424098 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="84.31095936924098" y="3" font-family="sans-serif">CATEGORY_CHILD_OF</text></g><g class="relationship" transform="translate(-373.01456597010525 -173.2666611928581) rotate(372.7154038426462)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 280.5488542569901 0.5 L 280.5488542569901 -0.5 L 25 -0.5 Z M 379.0176042569901 0.5 L 634.5664585139803 0.5 L 634.5664585139803 3.5 L 641.5664585139803 0 L 634.5664585139803 -3.5 L 634.5664585139803 -0.5 L 379.0176042569901 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="329.7832292569901" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-373.01456597010525 -173.2666611928581) rotate(520.4207905579551)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 135.8241674723806 0.5 L 135.8241674723806 -0.5 L 25 -0.5 Z M 234.2929174723806 0.5 L 345.1170849447612 0.5 L 345.1170849447612 3.5 L 352.1170849447612 0 L 345.1170849447612 -3.5 L 345.1170849447612 -0.5 L 234.2929174723806 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="185.0585424723806" y="3" transform="rotate(180 185.0585424723806 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-68.78091026542361 -346.60352438471995) rotate(515.561873426575)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 309.49063130247987 0.5 L 309.49063130247987 -0.5 L 25 -0.5 Z M 407.95938130247987 0.5 L 692.4500126049597 0.5 L 692.4500126049597 3.5 L 699.4500126049597 0 L 692.4500126049597 -3.5 L 692.4500126049597 -0.5 L 407.95938130247987 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="358.72500630247987" y="3" transform="rotate(180 358.72500630247987 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-68.78091026542361 -346.60352438471995) rotate(402.770357624985)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 182.92449466637547 0.5 L 182.92449466637547 -0.5 L 25 -0.5 Z M 281.3932446663755 0.5 L 439.31773933275093 0.5 L 439.31773933275093 3.5 L 446.31773933275093 0 L 439.31773933275093 -3.5 L 439.31773933275093 -0.5 L 281.3932446663755 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="232.15886966637547" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-68.78091026542361 -346.60352438471995) rotate(491.88516759361164)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 47.353394138772074 0.5 L 47.353394138772074 -0.5 L 25 -0.5 Z M 141.52917538877207 0.5 L 163.88256952754415 0.5 L 163.88256952754415 3.5 L 170.88256952754415 0 L 163.88256952754415 -3.5 L 163.88256952754415 -0.5 L 141.52917538877207 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="94.44128476377207" y="3" transform="rotate(180 94.44128476377207 0)" font-family="sans-serif">CATEGORY_CHILD_OF</text></g><g class="relationship" transform="translate(-32.639482603183865 -248.35961357932516) rotate(523.849164815974)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 309.40160530702855 0.5 L 309.40160530702855 -0.5 L 25 -0.5 Z M 407.87035530702855 0.5 L 692.2719606140571 0.5 L 692.2719606140571 3.5 L 699.2719606140571 0 L 692.2719606140571 -3.5 L 692.2719606140571 -0.5 L 407.87035530702855 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="358.63598030702855" y="3" transform="rotate(180 358.63598030702855 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-32.639482603183865 -248.35961357932516) rotate(524.0875963328708)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 36.19778313912346 0.5 L 36.19778313912346 -0.5 L 25 -0.5 Z M 130.37356438912346 0.5 L 141.57134752824692 0.5 L 141.57134752824692 3.5 L 148.57134752824692 0 L 141.57134752824692 -3.5 L 141.57134752824692 -0.5 L 130.37356438912346 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="83.28567376412346" y="3" transform="rotate(180 83.28567376412346 0)" font-family="sans-serif">CATEGORY_CHILD_OF</text></g><g class="relationship" transform="translate(-32.639482603183865 -248.35961357932516) rotate(395.59795632208335)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 137.79317377437619 0.5 L 137.79317377437619 -0.5 L 25 -0.5 Z M 236.26192377437619 0.5 L 349.05509754875237 0.5 L 349.05509754875237 3.5 L 356.05509754875237 0 L 349.05509754875237 -3.5 L 349.05509754875237 -0.5 L 236.26192377437619 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="187.02754877437619" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-359.3172860610694 -252.12740333178186) rotate(377.820454151214)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 33.31650881255186 0.5 L 33.31650881255186 -0.5 L 25 -0.5 Z M 127.49229006255186 0.5 L 135.80879887510372 0.5 L 135.80879887510372 3.5 L 142.80879887510372 0 L 135.80879887510372 -3.5 L 135.80879887510372 -0.5 L 127.49229006255186 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="80.40439943755186" y="3" font-family="sans-serif">CATEGORY_CHILD_OF</text></g><g class="relationship" transform="translate(-359.3172860610694 -252.12740333178186) rotate(379.5138707976834)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 284.9212994496278 0.5 L 284.9212994496278 -0.5 L 25 -0.5 Z M 383.3900494496278 0.5 L 643.3113488992556 0.5 L 643.3113488992556 3.5 L 650.3113488992556 0 L 643.3113488992556 -3.5 L 643.3113488992556 -0.5 L 383.3900494496278 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="334.1556744496278" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-359.3172860610694 -252.12740333178186) rotate(510.9179630108973)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 158.38744176166284 0.5 L 158.38744176166284 -0.5 L 25 -0.5 Z M 256.85619176166284 0.5 L 390.2436335233257 0.5 L 390.2436335233257 3.5 L 397.2436335233257 0 L 390.2436335233257 -3.5 L 390.2436335233257 -0.5 L 256.85619176166284 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="207.62181676166284" y="3" transform="rotate(180 207.62181676166284 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-37.19356403880039 -154.39606934614608) rotate(531.1585536079904)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 296.9876333782034 0.5 L 296.9876333782034 -0.5 L 25 -0.5 Z M 395.4563833782034 0.5 L 667.4440167564068 0.5 L 667.4440167564068 3.5 L 674.4440167564068 0 L 667.4440167564068 -3.5 L 667.4440167564068 -0.5 L 395.4563833782034 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="346.2220083782034" y="3" transform="rotate(180 346.2220083782034 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-37.19356403880039 -154.39606934614608) rotate(382.12853996944693)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 116.96455066707682 0.5 L 116.96455066707682 -0.5 L 25 -0.5 Z M 215.43330066707682 0.5 L 307.39785133415364 0.5 L 307.39785133415364 3.5 L 314.39785133415364 0 L 307.39785133415364 -3.5 L 307.39785133415364 -0.5 L 215.43330066707682 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="166.19892566707682" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-37.19356403880039 -154.39606934614608) rotate(195.94068129573452)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 33.841904046108354 0.5 L 33.841904046108354 -0.5 L 25 -0.5 Z M 128.01768529610837 0.5 L 136.8595893422167 0.5 L 136.8595893422167 3.5 L 143.8595893422167 0 L 136.8595893422167 -3.5 L 136.8595893422167 -0.5 L 128.01768529610837 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="80.92979467110835" y="3" transform="rotate(180 80.92979467110835 0)" font-family="sans-serif">CATEGORY_CHILD_OF</text></g><g class="relationship" transform="translate(-157.20226208469484 361.336868833202) rotate(215.55641401771834)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 298.27589350323814 0.5 L 298.27589350323814 -0.5 L 25 -0.5 Z M 396.74464350323814 0.5 L 670.0205370064763 0.5 L 670.0205370064763 3.5 L 677.0205370064763 0 L 670.0205370064763 -3.5 L 670.0205370064763 -0.5 L 396.74464350323814 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="347.51026850323814" y="3" transform="rotate(180 347.51026850323814 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-157.20226208469484 361.336868833202) rotate(233.04077895049517)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 25.11667981490198 0.5 L 25.11667981490198 -0.5 L 25 -0.5 Z M 78.08542981490197 0.5 L 78.20210962980396 0.5 L 78.20210962980396 3.5 L 85.20210962980396 0 L 78.20210962980396 -3.5 L 78.20210962980396 -0.5 L 78.08542981490197 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="51.60105481490198" y="3" transform="rotate(180 51.60105481490198 0)" font-family="sans-serif">CATEGOR…</text></g><g class="relationship" transform="translate(-157.20226208469484 361.336868833202) rotate(318.2379887562449)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 238.45515082628765 0.5 L 238.45515082628765 -0.5 L 25 -0.5 Z M 336.92390082628765 0.5 L 550.3790516525753 0.5 L 550.3790516525753 3.5 L 557.3790516525753 0 L 550.3790516525753 -3.5 L 550.3790516525753 -0.5 L 336.92390082628765 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="287.68952582628765" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-310.7358273231874 366.02171950030566) rotate(326.2687192720097)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 300.7434600316323 0.5 L 300.7434600316323 -0.5 L 25 -0.5 Z M 399.2122100316323 0.5 L 674.9556700632646 0.5 L 674.9556700632646 3.5 L 681.9556700632646 0 L 674.9556700632646 -3.5 L 674.9556700632646 -0.5 L 399.2122100316323 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="349.9778350316323" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g><g class="relationship" transform="translate(-310.7358273231874 366.02171950030566) rotate(313.2600622135466)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 25.980121153687094 0.5 L 25.980121153687094 -0.5 L 25 -0.5 Z M 94.3707461536871 0.5 L 95.35086730737419 0.5 L 95.35086730737419 3.5 L 102.35086730737419 0 L 95.35086730737419 -3.5 L 95.35086730737419 -0.5 L 94.3707461536871 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="60.175433653687094" y="3" font-family="sans-serif">CATEGORY_C…</text></g><g class="relationship" transform="translate(-310.7358273231874 366.02171950030566) rotate(224.6772859423682)"><path class="outline" fill="#A5ABB6" stroke="none" d="M 25 0.5 L 240.89756270853917 0.5 L 240.89756270853917 -0.5 L 25 -0.5 Z M 339.36631270853917 0.5 L 555.2638754170783 0.5 L 555.2638754170783 3.5 L 562.2638754170783 0 L 555.2638754170783 -3.5 L 555.2638754170783 -0.5 L 339.36631270853917 -0.5 Z"/><text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000" x="290.13193770853917" y="3" transform="rotate(180 290.13193770853917 0)" font-family="sans-serif">CATEGORY_ATTRIBUTE</text></g></g><g class="layer nodes"><g class="node" aria-label="graph-node0" transform="translate(-728.326406921989,-46.89106451130937)"><circle class="outline" cx="0" cy="0" r="25" fill="#8DCC93" stroke="#5db665" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Color</text></g><g class="node" aria-label="graph-node1" transform="translate(-558.6154224482669,-20.81961329695781)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Red</text></g><g class="node" aria-label="graph-node2" transform="translate(-642.2724054227695,-188.93687364113913)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Blue</text></g><g class="node" aria-label="graph-node3" transform="translate(-575.0323471071915,-116.6993157060147)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Green</text></g><g class="node" aria-label="graph-node4" transform="translate(-739.4577393440314,-203.3739302220487)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Yellow</text></g><g class="node" aria-label="graph-node5" transform="translate(-777.5108708968202,103.71716762632994)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Purple</text></g><g class="node" aria-label="graph-node6" transform="translate(-592.2042477723692,70.38685277852531)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Orange</text></g><g class="node" aria-label="graph-node7" transform="translate(-848.0980306804722,34.69737585495669)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Pink</text></g><g class="node" aria-label="graph-node8" transform="translate(-680.3182433174231,115.81467371878941)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Brown</text></g><g class="node" aria-label="graph-node9" transform="translate(-867.6902498408494,-63.15245441663842)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Gray</text></g><g class="node" aria-label="graph-node10" transform="translate(-825.7801339156019,-153.84472629015417)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> Black</text></g><g class="node" aria-label="graph-node11" transform="translate(277.2046191277392,-26.549740060478797)"><circle class="outline" cx="0" cy="0" r="25" fill="#8DCC93" stroke="#5db665" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Size</text></g><g class="node" aria-label="graph-node12" transform="translate(153.53685369953445,72.41722651142058)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> S</text></g><g class="node" aria-label="graph-node13" transform="translate(413.52509608321145,-113.75986608315392)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> M</text></g><g class="node" aria-label="graph-node14" transform="translate(408.28292046188807,73.06626662839301)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> L</text></g><g class="node" aria-label="graph-node15" transform="translate(330.67040871563285,132.42605504860515)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> XL</text></g><g class="node" aria-label="graph-node16" transform="translate(338.4722140219101,-176.97906323476946)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> XXL</text></g><g class="node" aria-label="graph-node17" transform="translate(441.07783816006634,-19.816791579196472)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> 32</text></g><g class="node" aria-label="graph-node18" transform="translate(239.37933782763227,-177.37592760647757)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> 34</text></g><g class="node" aria-label="graph-node19" transform="translate(160.50729409846488,-117.00446784340146)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> 36</text></g><g class="node" aria-label="graph-node20" transform="translate(231.34485384464048,132.31588411874137)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> 38</text></g><g class="node" aria-label="graph-node21" transform="translate(127.77541382061438,-22.778613426092438)"><circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#FFFFFF" font-family="sans-serif"> 40</text></g><g class="node" aria-label="graph-node22" transform="translate(-213.97131524943723,29.075821989485632)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Fashion</text></g><g class="node" aria-label="graph-node23" transform="translate(-199.5599195915429,-200.77200596571709)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Women</text></g><g class="node" aria-label="graph-node24" transform="translate(-223.46089042345747,273.2783704498827)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Men</text></g><g class="node" aria-label="graph-node25" transform="translate(-194.98017092277655,-398.38226107378085)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> T-Shirt</text></g><g class="node" aria-label="graph-node26" transform="translate(-306.39237101695886,-345.8374219860515)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Shirt</text></g><g class="node" aria-label="graph-node27" transform="translate(-373.01456597010525,-173.2666611928581)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Jeans</text></g><g class="node" aria-label="graph-node28" transform="translate(-68.78091026542361,-346.60352438471995)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Blouse</text></g><g class="node" aria-label="graph-node29" transform="translate(-32.639482603183865,-248.35961357932516)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Sweater</text></g><g class="node" aria-label="graph-node30" transform="translate(-359.3172860610694,-252.12740333178186)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Dress</text></g><g class="node" aria-label="graph-node31" transform="translate(-37.19356403880039,-154.39606934614608)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Jean</text></g><g class="node" aria-label="graph-node32" transform="translate(-157.20226208469484,361.336868833202)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Jacket</text></g><g class="node" aria-label="graph-node33" transform="translate(-310.7358273231874,366.02171950030566)"><circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7" stroke-width="2px"/><text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px" fill="#2A2C34" font-family="sans-serif"> Pants</text></g></g></svg>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1366.7681884765625" height="822.4039916992188"
+  viewBox="-896.6902465820312 -427.38226318359375 1366.7681884765625 822.4039916992188">
+  <title>Neo4j Graph Visualization</title>
+  <desc>Created using Neo4j (http://www.neo4j.com/)</desc>
+  <g class="layer relationships">
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(227.66093502737118)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 28.87232330505418 0.5 L 28.87232330505418 -0.5 L 25 -0.5 Z M 108.82154205505418 0.5 L 112.69386536010836 0.5 L 112.69386536010836 3.5 L 119.69386536010836 0 L 112.69386536010836 -3.5 L 112.69386536010836 -0.5 L 108.82154205505418 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="68.84693268005418" y="3" transform="rotate(180 68.84693268005418 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(186.65534774977408)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 26.680065299546712 0.5 L 26.680065299546712 -0.5 L 25 -0.5 Z M 106.62928404954671 0.5 L 108.30934934909342 0.5 L 108.30934934909342 3.5 L 115.30934934909342 0 L 108.30934934909342 -3.5 L 108.30934934909342 -0.5 L 106.62928404954671 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="66.65467467454671" y="3" transform="rotate(180 66.65467467454671 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(433.5607107630748)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 41.34570220436787 0.5 L 41.34570220436787 -0.5 L 25 -0.5 Z M 121.29492095436787 0.5 L 137.64062315873574 0.5 L 137.64062315873574 3.5 L 144.64062315873574 0 L 137.64062315873574 -3.5 L 137.64062315873574 -0.5 L 121.29492095436787 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="81.32031157936787" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(505.7373056078137)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 28.985578761561257 0.5 L 28.985578761561257 -0.5 L 25 -0.5 Z M 108.93479751156126 0.5 L 112.92037627312251 0.5 L 112.92037627312251 3.5 L 119.92037627312251 0 L 112.92037627312251 -3.5 L 112.92037627312251 -0.5 L 108.93479751156126 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="68.96018813656126" y="3" transform="rotate(180 68.96018813656126 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(400.74699504644246)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 46.36323356353529 0.5 L 46.36323356353529 -0.5 L 25 -0.5 Z M 126.31245231353529 0.5 L 147.67568587707058 0.5 L 147.67568587707058 3.5 L 154.67568587707058 0 L 147.67568587707058 -3.5 L 147.67568587707058 -0.5 L 126.31245231353529 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="86.33784293853529" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(468.0855993576684)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 35.74336693738208 0.5 L 35.74336693738208 -0.5 L 25 -0.5 Z M 115.69258568738208 0.5 L 126.43595262476416 0.5 L 126.43595262476416 3.5 L 133.43595262476416 0 L 126.43595262476416 -3.5 L 126.43595262476416 -0.5 L 115.69258568738208 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="75.71797631238208" y="3" transform="rotate(180 75.71797631238208 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(265.9311463607706)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 34.964529169694785 0.5 L 34.964529169694785 -0.5 L 25 -0.5 Z M 114.91374791969479 0.5 L 124.87827708938957 0.5 L 124.87827708938957 3.5 L 131.87827708938957 0 L 124.87827708938957 -3.5 L 124.87827708938957 -0.5 L 114.91374791969479 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="74.93913854469479" y="3" transform="rotate(180 74.93913854469479 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(335.5160572345335)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 40.74572770186907 0.5 L 40.74572770186907 -0.5 L 25 -0.5 Z M 120.69494645186907 0.5 L 136.44067415373814 0.5 L 136.44067415373814 3.5 L 143.44067415373814 0 L 136.44067415373814 -3.5 L 136.44067415373814 -0.5 L 120.69494645186907 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="80.72033707686907" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(301.2082630888353)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 39.564994226799115 0.5 L 39.564994226799115 -0.5 L 25 -0.5 Z M 119.51421297679912 0.5 L 134.07920720359823 0.5 L 134.07920720359823 3.5 L 141.07920720359823 0 L 134.07920720359823 -3.5 L 134.07920720359823 -0.5 L 119.51421297679912 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="79.53960360179912" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-728.326406921989 -46.89106451130937) rotate(368.7336521189043)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 42.37633531907754 0.5 L 42.37633531907754 -0.5 L 25 -0.5 Z M 122.32555406907754 0.5 L 139.70188938815508 0.5 L 139.70188938815508 3.5 L 146.70188938815508 0 L 139.70188938815508 -3.5 L 139.70188938815508 -0.5 L 122.32555406907754 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="82.35094469407754" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(538.5543402599817)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 31.263782357113556 0.5 L 31.263782357113556 -0.5 L 25 -0.5 Z M 111.21300110711356 0.5 L 117.47678346422711 0.5 L 117.47678346422711 3.5 L 124.47678346422711 0 L 117.47678346422711 -3.5 L 117.47678346422711 -0.5 L 111.21300110711356 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="71.23839173211356" y="3" transform="rotate(180 71.23839173211356 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(466.1018506974234)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 39.20157313494981 0.5 L 39.20157313494981 -0.5 L 25 -0.5 Z M 119.15079188494981 0.5 L 133.35236501989962 0.5 L 133.35236501989962 3.5 L 140.35236501989962 0 L 133.35236501989962 -3.5 L 133.35236501989962 -0.5 L 119.15079188494981 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="79.17618250994981" y="3" transform="rotate(180 79.17618250994981 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(217.78007071660915)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 30.350053589470647 0.5 L 30.350053589470647 -0.5 L 25 -0.5 Z M 110.29927233947065 0.5 L 115.6493259289413 0.5 L 115.6493259289413 3.5 L 122.6493259289413 0 L 115.6493259289413 -3.5 L 115.6493259289413 -0.5 L 110.29927233947065 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="70.32466296447065" y="3" transform="rotate(180 70.32466296447065 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(255.92131285167056)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 34.27384841532053 0.5 L 34.27384841532053 -0.5 L 25 -0.5 Z M 114.22306716532053 0.5 L 123.49691558064106 0.5 L 123.49691558064106 3.5 L 130.49691558064106 0 L 123.49691558064106 -3.5 L 123.49691558064106 -0.5 L 114.22306716532053 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="74.24845779032053" y="3" transform="rotate(180 74.24845779032053 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(362.3527497829798)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 38.53112900846416 0.5 L 38.53112900846416 -0.5 L 25 -0.5 Z M 118.48034775846416 0.5 L 132.01147676692833 0.5 L 132.01147676692833 3.5 L 139.01147676692833 0 L 132.01147676692833 -3.5 L 132.01147676692833 -0.5 L 118.48034775846416 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="78.50573838346416" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(292.16032660047506)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 37.73915093504755 0.5 L 37.73915093504755 -0.5 L 25 -0.5 Z M 117.68836968504755 0.5 L 130.4275206200951 0.5 L 130.4275206200951 3.5 L 137.4275206200951 0 L 130.4275206200951 -3.5 L 130.4275206200951 -0.5 L 117.68836968504755 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="77.71376031004755" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(431.41148589853947)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 40.38821624938252 0.5 L 40.38821624938252 -0.5 L 25 -0.5 Z M 120.33743499938252 0.5 L 135.72565124876505 0.5 L 135.72565124876505 3.5 L 142.72565124876505 0 L 135.72565124876505 -3.5 L 135.72565124876505 -0.5 L 120.33743499938252 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="80.36282562438252" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(397.23386356775063)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 38.84317404584304 0.5 L 38.84317404584304 -0.5 L 25 -0.5 Z M 118.79239279584304 0.5 L 132.63556684168609 0.5 L 132.63556684168609 3.5 L 139.63556684168609 0 L 132.63556684168609 -3.5 L 132.63556684168609 -0.5 L 118.79239279584304 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="78.81778342084304" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(327.3911879413892)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 37.440281897030886 0.5 L 37.440281897030886 -0.5 L 25 -0.5 Z M 117.38950064703089 0.5 L 129.82978254406177 0.5 L 129.82978254406177 3.5 L 136.82978254406177 0 L 129.82978254406177 -3.5 L 129.82978254406177 -0.5 L 117.38950064703089 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="77.41489127203089" y="3" font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(277.2046191277392 -26.549740060478797) rotate(501.3309397901795)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 35.72162898019103 0.5 L 35.72162898019103 -0.5 L 25 -0.5 Z M 115.67084773019103 0.5 L 126.39247671038206 0.5 L 126.39247671038206 3.5 L 133.39247671038206 0 L 126.39247671038206 -3.5 L 126.39247671038206 -0.5 L 115.67084773019103 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="75.69623835519103" y="3" transform="rotate(180 75.69623835519103 0)"
+        font-family="sans-serif">ATTRIBUTE_VALUE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-213.97131524943723 29.075821989485632) rotate(353.5387950023978)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 194.42347014388105 0.5 L 194.42347014388105 -0.5 L 25 -0.5 Z M 292.89222014388105 0.5 L 462.3156902877621 0.5 L 462.3156902877621 3.5 L 469.3156902877621 0 L 462.3156902877621 -3.5 L 462.3156902877621 -0.5 L 292.89222014388105 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="243.65784514388105" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-213.97131524943723 29.075821989485632) rotate(188.4014754951594)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 207.23299226659742 0.5 L 207.23299226659742 -0.5 L 25 -0.5 Z M 305.7017422665974 0.5 L 487.93473453319484 0.5 L 487.93473453319484 3.5 L 494.93473453319484 0 L 487.93473453319484 -3.5 L 487.93473453319484 -0.5 L 305.7017422665974 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="256.4673672665974" y="3" transform="rotate(180 256.4673672665974 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-199.5599195915429 -200.77200596571709) rotate(380.07362912686)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 201.0656561846737 0.5 L 201.0656561846737 -0.5 L 25 -0.5 Z M 299.5344061846737 0.5 L 475.6000623693474 0.5 L 475.6000623693474 3.5 L 482.6000623693474 0 L 475.6000623693474 -3.5 L 475.6000623693474 -0.5 L 299.5344061846737 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="250.3000311846737" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-199.5599195915429 -200.77200596571709) rotate(523.7740157738649)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 222.61691983383298 0.5 L 222.61691983383298 -0.5 L 25 -0.5 Z M 321.085669833833 0.5 L 518.702589667666 0.5 L 518.702589667666 3.5 L 525.702589667666 0 L 518.702589667666 -3.5 L 518.702589667666 -0.5 L 321.085669833833 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="271.851294833833" y="3" transform="rotate(180 271.851294833833 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-199.5599195915429 -200.77200596571709) rotate(453.5877331190526)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 64.56169940958593 0.5 L 64.56169940958593 -0.5 L 25 -0.5 Z M 158.7374806595859 0.5 L 198.29918006917185 0.5 L 198.29918006917185 3.5 L 205.29918006917185 0 L 198.29918006917185 -3.5 L 198.29918006917185 -0.5 L 158.7374806595859 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="111.64959003458593" y="3" transform="rotate(180 111.64959003458593 0)"
+        font-family="sans-serif">CATEGORY_CHILD_OF
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-223.46089042345747 273.2783704498827) rotate(329.0843317385698)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 239.05443917318462 0.5 L 239.05443917318462 -0.5 L 25 -0.5 Z M 337.5231891731846 0.5 L 551.5776283463692 0.5 L 551.5776283463692 3.5 L 558.5776283463692 0 L 551.5776283463692 -3.5 L 551.5776283463692 -0.5 L 337.5231891731846 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="288.2888141731846" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-223.46089042345747 273.2783704498827) rotate(212.38155302693917)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 246.17934868657562 0.5 L 246.17934868657562 -0.5 L 25 -0.5 Z M 344.6480986865756 0.5 L 565.8274473731512 0.5 L 565.8274473731512 3.5 L 572.8274473731512 0 L 565.8274473731512 -3.5 L 565.8274473731512 -0.5 L 344.6480986865756 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="295.4137236865756" y="3" transform="rotate(180 295.4137236865756 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-223.46089042345747 273.2783704498827) rotate(272.22536242586824)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 71.60553873142648 0.5 L 71.60553873142648 -0.5 L 25 -0.5 Z M 165.78131998142646 0.5 L 212.38685871285296 0.5 L 212.38685871285296 3.5 L 219.38685871285296 0 L 212.38685871285296 -3.5 L 212.38685871285296 -0.5 L 165.78131998142646 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="118.69342935642648" y="3" font-family="sans-serif">CATEGORY_CHILD_OF
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-194.98017092277655 -398.38226107378085) rotate(398.21945831853066)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 247.77265471734177 0.5 L 247.77265471734177 -0.5 L 25 -0.5 Z M 346.24140471734177 0.5 L 569.0140594346835 0.5 L 569.0140594346835 3.5 L 576.0140594346835 0 L 569.0140594346835 -3.5 L 569.0140594346835 -0.5 L 346.24140471734177 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="297.00702971734177" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-194.98017092277655 -398.38226107378085) rotate(506.61391745164224)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 266.64168418237114 0.5 L 266.64168418237114 -0.5 L 25 -0.5 Z M 365.11043418237114 0.5 L 606.7521183647423 0.5 L 606.7521183647423 3.5 L 613.7521183647423 0 L 606.7521183647423 -3.5 L 606.7521183647423 -0.5 L 365.11043418237114 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="315.87605918237114" y="3" transform="rotate(180 315.87605918237114 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-194.98017092277655 -398.38226107378085) rotate(451.32763001370324)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 48.24376804486033 0.5 L 48.24376804486033 -0.5 L 25 -0.5 Z M 142.41954929486033 0.5 L 165.66331733972066 0.5 L 165.66331733972066 3.5 L 172.66331733972066 0 L 165.66331733972066 -3.5 L 165.66331733972066 -0.5 L 142.41954929486033 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="95.33165866986033" y="3" transform="rotate(180 95.33165866986033 0)"
+        font-family="sans-serif">CATEGORY_CHILD_OF
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-306.39237101695886 -345.8374219860515) rotate(388.683202845818)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 279.88029347365455 0.5 L 279.88029347365455 -0.5 L 25 -0.5 Z M 378.34904347365455 0.5 L 633.2293369473091 0.5 L 633.2293369473091 3.5 L 640.2293369473091 0 L 633.2293369473091 -3.5 L 633.2293369473091 -0.5 L 378.34904347365455 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="329.11466847365455" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-306.39237101695886 -345.8374219860515) rotate(504.6818773550342)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 205.8179675259011 0.5 L 205.8179675259011 -0.5 L 25 -0.5 Z M 304.2867175259011 0.5 L 485.1046850518022 0.5 L 485.1046850518022 3.5 L 492.1046850518022 0 L 485.1046850518022 -3.5 L 485.1046850518022 -0.5 L 304.2867175259011 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="255.0523425259011" y="3" transform="rotate(180 255.0523425259011 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-306.39237101695886 -345.8374219860515) rotate(413.63046091847474)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 39.49144607703805 0.5 L 39.49144607703805 -0.5 L 25 -0.5 Z M 133.66722732703806 0.5 L 148.1586734040761 0.5 L 148.1586734040761 3.5 L 155.1586734040761 0 L 148.1586734040761 -3.5 L 148.1586734040761 -0.5 L 133.66722732703806 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="86.57933670203805" y="3" font-family="sans-serif">CATEGORY_CHILD_OF
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-373.01456597010525 -173.2666611928581) rotate(350.9894219870316)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 37.223068744240976 0.5 L 37.223068744240976 -0.5 L 25 -0.5 Z M 131.39884999424098 0.5 L 143.62191873848195 0.5 L 143.62191873848195 3.5 L 150.62191873848195 0 L 143.62191873848195 -3.5 L 143.62191873848195 -0.5 L 131.39884999424098 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="84.31095936924098" y="3" font-family="sans-serif">CATEGORY_CHILD_OF
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-373.01456597010525 -173.2666611928581) rotate(372.7154038426462)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 280.5488542569901 0.5 L 280.5488542569901 -0.5 L 25 -0.5 Z M 379.0176042569901 0.5 L 634.5664585139803 0.5 L 634.5664585139803 3.5 L 641.5664585139803 0 L 634.5664585139803 -3.5 L 634.5664585139803 -0.5 L 379.0176042569901 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="329.7832292569901" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-373.01456597010525 -173.2666611928581) rotate(520.4207905579551)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 135.8241674723806 0.5 L 135.8241674723806 -0.5 L 25 -0.5 Z M 234.2929174723806 0.5 L 345.1170849447612 0.5 L 345.1170849447612 3.5 L 352.1170849447612 0 L 345.1170849447612 -3.5 L 345.1170849447612 -0.5 L 234.2929174723806 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="185.0585424723806" y="3" transform="rotate(180 185.0585424723806 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-68.78091026542361 -346.60352438471995) rotate(515.561873426575)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 309.49063130247987 0.5 L 309.49063130247987 -0.5 L 25 -0.5 Z M 407.95938130247987 0.5 L 692.4500126049597 0.5 L 692.4500126049597 3.5 L 699.4500126049597 0 L 692.4500126049597 -3.5 L 692.4500126049597 -0.5 L 407.95938130247987 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="358.72500630247987" y="3" transform="rotate(180 358.72500630247987 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-68.78091026542361 -346.60352438471995) rotate(402.770357624985)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 182.92449466637547 0.5 L 182.92449466637547 -0.5 L 25 -0.5 Z M 281.3932446663755 0.5 L 439.31773933275093 0.5 L 439.31773933275093 3.5 L 446.31773933275093 0 L 439.31773933275093 -3.5 L 439.31773933275093 -0.5 L 281.3932446663755 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="232.15886966637547" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-68.78091026542361 -346.60352438471995) rotate(491.88516759361164)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 47.353394138772074 0.5 L 47.353394138772074 -0.5 L 25 -0.5 Z M 141.52917538877207 0.5 L 163.88256952754415 0.5 L 163.88256952754415 3.5 L 170.88256952754415 0 L 163.88256952754415 -3.5 L 163.88256952754415 -0.5 L 141.52917538877207 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="94.44128476377207" y="3" transform="rotate(180 94.44128476377207 0)"
+        font-family="sans-serif">CATEGORY_CHILD_OF
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-32.639482603183865 -248.35961357932516) rotate(523.849164815974)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 309.40160530702855 0.5 L 309.40160530702855 -0.5 L 25 -0.5 Z M 407.87035530702855 0.5 L 692.2719606140571 0.5 L 692.2719606140571 3.5 L 699.2719606140571 0 L 692.2719606140571 -3.5 L 692.2719606140571 -0.5 L 407.87035530702855 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="358.63598030702855" y="3" transform="rotate(180 358.63598030702855 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-32.639482603183865 -248.35961357932516) rotate(524.0875963328708)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 36.19778313912346 0.5 L 36.19778313912346 -0.5 L 25 -0.5 Z M 130.37356438912346 0.5 L 141.57134752824692 0.5 L 141.57134752824692 3.5 L 148.57134752824692 0 L 141.57134752824692 -3.5 L 141.57134752824692 -0.5 L 130.37356438912346 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="83.28567376412346" y="3" transform="rotate(180 83.28567376412346 0)"
+        font-family="sans-serif">CATEGORY_CHILD_OF
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-32.639482603183865 -248.35961357932516) rotate(395.59795632208335)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 137.79317377437619 0.5 L 137.79317377437619 -0.5 L 25 -0.5 Z M 236.26192377437619 0.5 L 349.05509754875237 0.5 L 349.05509754875237 3.5 L 356.05509754875237 0 L 349.05509754875237 -3.5 L 349.05509754875237 -0.5 L 236.26192377437619 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="187.02754877437619" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-359.3172860610694 -252.12740333178186) rotate(377.820454151214)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 33.31650881255186 0.5 L 33.31650881255186 -0.5 L 25 -0.5 Z M 127.49229006255186 0.5 L 135.80879887510372 0.5 L 135.80879887510372 3.5 L 142.80879887510372 0 L 135.80879887510372 -3.5 L 135.80879887510372 -0.5 L 127.49229006255186 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="80.40439943755186" y="3" font-family="sans-serif">CATEGORY_CHILD_OF
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-359.3172860610694 -252.12740333178186) rotate(379.5138707976834)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 284.9212994496278 0.5 L 284.9212994496278 -0.5 L 25 -0.5 Z M 383.3900494496278 0.5 L 643.3113488992556 0.5 L 643.3113488992556 3.5 L 650.3113488992556 0 L 643.3113488992556 -3.5 L 643.3113488992556 -0.5 L 383.3900494496278 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="334.1556744496278" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-359.3172860610694 -252.12740333178186) rotate(510.9179630108973)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 158.38744176166284 0.5 L 158.38744176166284 -0.5 L 25 -0.5 Z M 256.85619176166284 0.5 L 390.2436335233257 0.5 L 390.2436335233257 3.5 L 397.2436335233257 0 L 390.2436335233257 -3.5 L 390.2436335233257 -0.5 L 256.85619176166284 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="207.62181676166284" y="3" transform="rotate(180 207.62181676166284 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-37.19356403880039 -154.39606934614608) rotate(531.1585536079904)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 296.9876333782034 0.5 L 296.9876333782034 -0.5 L 25 -0.5 Z M 395.4563833782034 0.5 L 667.4440167564068 0.5 L 667.4440167564068 3.5 L 674.4440167564068 0 L 667.4440167564068 -3.5 L 667.4440167564068 -0.5 L 395.4563833782034 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="346.2220083782034" y="3" transform="rotate(180 346.2220083782034 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-37.19356403880039 -154.39606934614608) rotate(382.12853996944693)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 116.96455066707682 0.5 L 116.96455066707682 -0.5 L 25 -0.5 Z M 215.43330066707682 0.5 L 307.39785133415364 0.5 L 307.39785133415364 3.5 L 314.39785133415364 0 L 307.39785133415364 -3.5 L 307.39785133415364 -0.5 L 215.43330066707682 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="166.19892566707682" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-37.19356403880039 -154.39606934614608) rotate(195.94068129573452)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 33.841904046108354 0.5 L 33.841904046108354 -0.5 L 25 -0.5 Z M 128.01768529610837 0.5 L 136.8595893422167 0.5 L 136.8595893422167 3.5 L 143.8595893422167 0 L 136.8595893422167 -3.5 L 136.8595893422167 -0.5 L 128.01768529610837 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="80.92979467110835" y="3" transform="rotate(180 80.92979467110835 0)"
+        font-family="sans-serif">CATEGORY_CHILD_OF
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-157.20226208469484 361.336868833202) rotate(215.55641401771834)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 298.27589350323814 0.5 L 298.27589350323814 -0.5 L 25 -0.5 Z M 396.74464350323814 0.5 L 670.0205370064763 0.5 L 670.0205370064763 3.5 L 677.0205370064763 0 L 670.0205370064763 -3.5 L 670.0205370064763 -0.5 L 396.74464350323814 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="347.51026850323814" y="3" transform="rotate(180 347.51026850323814 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-157.20226208469484 361.336868833202) rotate(233.04077895049517)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 25.11667981490198 0.5 L 25.11667981490198 -0.5 L 25 -0.5 Z M 78.08542981490197 0.5 L 78.20210962980396 0.5 L 78.20210962980396 3.5 L 85.20210962980396 0 L 78.20210962980396 -3.5 L 78.20210962980396 -0.5 L 78.08542981490197 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="51.60105481490198" y="3" transform="rotate(180 51.60105481490198 0)"
+        font-family="sans-serif">CATEGOR…
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-157.20226208469484 361.336868833202) rotate(318.2379887562449)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 238.45515082628765 0.5 L 238.45515082628765 -0.5 L 25 -0.5 Z M 336.92390082628765 0.5 L 550.3790516525753 0.5 L 550.3790516525753 3.5 L 557.3790516525753 0 L 550.3790516525753 -3.5 L 550.3790516525753 -0.5 L 336.92390082628765 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="287.68952582628765" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-310.7358273231874 366.02171950030566) rotate(326.2687192720097)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 300.7434600316323 0.5 L 300.7434600316323 -0.5 L 25 -0.5 Z M 399.2122100316323 0.5 L 674.9556700632646 0.5 L 674.9556700632646 3.5 L 681.9556700632646 0 L 674.9556700632646 -3.5 L 674.9556700632646 -0.5 L 399.2122100316323 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="349.9778350316323" y="3" font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-310.7358273231874 366.02171950030566) rotate(313.2600622135466)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 25.980121153687094 0.5 L 25.980121153687094 -0.5 L 25 -0.5 Z M 94.3707461536871 0.5 L 95.35086730737419 0.5 L 95.35086730737419 3.5 L 102.35086730737419 0 L 95.35086730737419 -3.5 L 95.35086730737419 -0.5 L 94.3707461536871 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="60.175433653687094" y="3" font-family="sans-serif">CATEGORY_C…
+      </text>
+    </g>
+    <g class="relationship"
+      transform="translate(-310.7358273231874 366.02171950030566) rotate(224.6772859423682)">
+      <path class="outline" fill="#A5ABB6" stroke="none"
+        d="M 25 0.5 L 240.89756270853917 0.5 L 240.89756270853917 -0.5 L 25 -0.5 Z M 339.36631270853917 0.5 L 555.2638754170783 0.5 L 555.2638754170783 3.5 L 562.2638754170783 0 L 555.2638754170783 -3.5 L 555.2638754170783 -0.5 L 339.36631270853917 -0.5 Z"/>
+      <text text-anchor="middle" pointer-events="none" font-size="8px" fill="#000000"
+        x="290.13193770853917" y="3" transform="rotate(180 290.13193770853917 0)"
+        font-family="sans-serif">CATEGORY_ATTRIBUTE
+      </text>
+    </g>
+  </g>
+  <g class="layer nodes">
+    <g class="node" aria-label="graph-node0"
+      transform="translate(-728.326406921989,-46.89106451130937)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#8DCC93" stroke="#5db665"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Color
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node1"
+      transform="translate(-558.6154224482669,-20.81961329695781)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Red
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node2"
+      transform="translate(-642.2724054227695,-188.93687364113913)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Blue
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node3"
+      transform="translate(-575.0323471071915,-116.6993157060147)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Green
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node4"
+      transform="translate(-739.4577393440314,-203.3739302220487)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Yellow
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node5"
+      transform="translate(-777.5108708968202,103.71716762632994)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Purple
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node6"
+      transform="translate(-592.2042477723692,70.38685277852531)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Orange
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node7"
+      transform="translate(-848.0980306804722,34.69737585495669)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Pink
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node8"
+      transform="translate(-680.3182433174231,115.81467371878941)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Brown
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node9"
+      transform="translate(-867.6902498408494,-63.15245441663842)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Gray
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node10"
+      transform="translate(-825.7801339156019,-153.84472629015417)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">Black
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node11"
+      transform="translate(277.2046191277392,-26.549740060478797)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#8DCC93" stroke="#5db665"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Size
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node12"
+      transform="translate(153.53685369953445,72.41722651142058)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">S
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node13"
+      transform="translate(413.52509608321145,-113.75986608315392)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">M
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node14"
+      transform="translate(408.28292046188807,73.06626662839301)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">L
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node15"
+      transform="translate(330.67040871563285,132.42605504860515)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">XL
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node16"
+      transform="translate(338.4722140219101,-176.97906323476946)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">XXL
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node17"
+      transform="translate(441.07783816006634,-19.816791579196472)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">32
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node18"
+      transform="translate(239.37933782763227,-177.37592760647757)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">34
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node19"
+      transform="translate(160.50729409846488,-117.00446784340146)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">36
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node20"
+      transform="translate(231.34485384464048,132.31588411874137)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">38
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node21"
+      transform="translate(127.77541382061438,-22.778613426092438)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#DA7194" stroke="#cc3c6c"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#FFFFFF" font-family="sans-serif">40
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node22"
+      transform="translate(-213.97131524943723,29.075821989485632)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Fashion
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node23"
+      transform="translate(-199.5599195915429,-200.77200596571709)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Women
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node24"
+      transform="translate(-223.46089042345747,273.2783704498827)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Men
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node25"
+      transform="translate(-194.98017092277655,-398.38226107378085)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">T-Shirt
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node26"
+      transform="translate(-306.39237101695886,-345.8374219860515)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Shirt
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node27"
+      transform="translate(-373.01456597010525,-173.2666611928581)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Jeans
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node28"
+      transform="translate(-68.78091026542361,-346.60352438471995)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Blouse
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node29"
+      transform="translate(-32.639482603183865,-248.35961357932516)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Sweater
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node30"
+      transform="translate(-359.3172860610694,-252.12740333178186)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Dress
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node31"
+      transform="translate(-37.19356403880039,-154.39606934614608)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Jean
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node32"
+      transform="translate(-157.20226208469484,361.336868833202)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Jacket
+      </text>
+    </g>
+    <g class="node" aria-label="graph-node33"
+      transform="translate(-310.7358273231874,366.02171950030566)">
+      <circle class="outline" cx="0" cy="0" r="25" fill="#57C7E3" stroke="#23b3d7"
+        stroke-width="2px"/>
+      <text class="caption" text-anchor="middle" pointer-events="none" x="0" y="5" font-size="10px"
+        fill="#2A2C34" font-family="sans-serif">Pants
+      </text>
+    </g>
+  </g>
+</svg>

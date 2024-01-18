@@ -1,9 +1,9 @@
 package com.example.neo4j_springboot.service;
 
 import com.example.neo4j_springboot.model.dto.AttributeKeyDto;
-import com.example.neo4j_springboot.model.request.SaveAttributeRequest;
 import com.example.neo4j_springboot.model.node.AttributeKeyNode;
 import com.example.neo4j_springboot.model.node.AttributeValueNode;
+import com.example.neo4j_springboot.model.request.SaveAttributeRequest;
 import com.example.neo4j_springboot.repository.AttributeRepository;
 import java.util.UUID;
 import java.util.stream.Collectors;

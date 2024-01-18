@@ -2,7 +2,6 @@ package com.example.neo4j_springboot.controller;
 
 import com.example.neo4j_springboot.model.dto.AttributeKeyDto;
 import com.example.neo4j_springboot.model.request.SaveAttributeRequest;
-import com.example.neo4j_springboot.model.node.AttributeKeyNode;
 import com.example.neo4j_springboot.service.AttributeService;
 import java.util.UUID;
 import lombok.RequiredArgsConstructor;

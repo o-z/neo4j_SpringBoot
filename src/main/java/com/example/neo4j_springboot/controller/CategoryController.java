@@ -2,7 +2,6 @@ package com.example.neo4j_springboot.controller;
 
 import com.example.neo4j_springboot.model.dto.CategoryDto;
 import com.example.neo4j_springboot.model.request.SaveCategoryRequest;
-import com.example.neo4j_springboot.model.node.CategoryNode;
 import com.example.neo4j_springboot.service.CategoryService;
 import java.util.Map;
 import java.util.UUID;
