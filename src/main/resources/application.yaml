@@ -1,0 +1,33 @@
+server:
+  port: 8080
+
+logging:
+  level:
+    org:
+      springframework:
+        data:
+          neo4j: DEBUG
+
+spring:
+  application:
+    name: neo4j-SpringBoot
+  jpa:
+    generate-ddl: true
+  data:
+    neo4j:
+      database: neo4j
+    redis:
+      host: localhost
+      port: 6379
+      connect-timeout: 60
+      database: 0
+      password: eYVX7EwVmmxKPCDmwMtyKVge8oLd2t81
+  neo4j:
+    uri: neo4j://localhost:7687
+    authentication:
+      username: neo4j
+      password: test
+
+
+
+

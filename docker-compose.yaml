@@ -1,0 +1,46 @@
+version: '3'
+
+services:
+  spring-neo4j:
+    image: neo4j:latest
+    volumes:
+      - spring-neo4j-volume:/data
+    ports:
+      - 7474:7474
+      - 7687:7687
+    environment:
+      NEO4J_AUTH: neo4j/test
+    restart: on-failure
+    networks:
+      - spring-net
+    command: neo4j
+
+  spring-redis:
+    image: redis:6.2-alpine
+    restart: always
+    ports:
+      - '6379:6379'
+    command: redis-server --save 20 1 --loglevel warning --requirepass eYVX7EwVmmxKPCDmwMtyKVge8oLd2t81
+    volumes:
+      - spring-redis-volume:/data
+    networks:
+      - spring-net
+
+  neo4j-spring-boot-api:
+    image: neo4j-spring-boot-image:latest
+    restart: on-failure
+    ports:
+      - 8080:8080
+    depends_on:
+      - spring-redis
+      - spring-neo4j
+    networks:
+      - spring-net
+
+volumes:
+  spring-mysql-volume:
+  spring-redis-volume:
+  spring-neo4j-volume:
+networks:
+  spring-net:
+    driver: bridge
