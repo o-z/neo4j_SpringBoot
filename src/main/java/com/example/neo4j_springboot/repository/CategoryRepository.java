@@ -1,23 +1,20 @@
 package com.example.neo4j_springboot.repository;
 
 import com.example.neo4j_springboot.model.node.CategoryNode;
+import java.util.List;
 import java.util.Map;
 import java.util.UUID;
-import org.springframework.data.domain.Page;
-import org.springframework.data.domain.Pageable;
 import org.springframework.data.neo4j.repository.Neo4jRepository;
 import org.springframework.data.neo4j.repository.query.Query;
+import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
 @Repository
 public interface CategoryRepository extends Neo4jRepository<CategoryNode, UUID> {
 
-  Page<CategoryNode> getCategoryNodeByDeepest(Boolean deepest, Pageable pageable);
+  @Query("MATCH path = (n:Category)-[:CATEGORY_PARENT_OF]->(m:Category) RETURN n, relationships(path) as rels, m")
+  List<CategoryNode> getCategoryNodeByDepth(@Param("depthParam") Integer depth);
 
-  @Query(value = "MATCH (c:CategoryNode), (p:CategoryNode) " +
-      "WHERE c.id = $childId AND p.id = $parentId " +
-      "CREATE (c)-[r:CATEGORY_CHILD_OF]->(p) SET p.deepest = false")
-  void createRelationBetweenChildToParent(UUID childId, UUID parentId);
 
   @Query(value = "MATCH (c:CategoryNode), (s:AttributeKeyNode) " +
       "WHERE c.id = $categoryId AND s.id in :#{#attributeKeys.keySet()} " +

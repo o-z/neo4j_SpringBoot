@@ -3,7 +3,6 @@ package com.example.neo4j_springboot.controller;
 import com.example.neo4j_springboot.model.dto.CategoryDto;
 import com.example.neo4j_springboot.model.request.SaveCategoryRequest;
 import com.example.neo4j_springboot.service.CategoryService;
-import java.util.Map;
 import java.util.UUID;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -26,18 +25,10 @@ public class CategoryController {
 
 
   @GetMapping("/{id}")
-  public ResponseEntity<CategoryDto> getCategoryById(@PathVariable final UUID id) {
-    return ResponseEntity.ok(categoryService.getCategoryById(id));
+  public ResponseEntity<CategoryDto> getCategoryById(@PathVariable final UUID id,
+      @RequestParam("withAttributes") Boolean withAttributes) {
+    return ResponseEntity.ok(categoryService.getCategoryById(id, withAttributes));
   }
-
-  @GetMapping
-  public ResponseEntity<Map<UUID, CategoryDto>> getAllCategories(
-      @RequestParam("deepest") Boolean deepest,
-      @RequestParam("page") Integer page,
-      @RequestParam("Size") Integer size) {
-    return ResponseEntity.ok(categoryService.getAllCategories(deepest, page, size));
-  }
-
 
   @PostMapping
   public ResponseEntity<CategoryDto> saveCategory(@RequestBody final SaveCategoryRequest request) {

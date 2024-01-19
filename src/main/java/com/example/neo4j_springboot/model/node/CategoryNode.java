@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 import lombok.experimental.SuperBuilder;
 import org.springframework.data.neo4j.core.schema.Node;
 import org.springframework.data.neo4j.core.schema.Relationship;
-import org.springframework.util.ObjectUtils;
+import org.springframework.util.CollectionUtils;
 
 @Node
 @Data
@@ -28,21 +28,24 @@ public class CategoryNode extends BaseNode implements Serializable {
 
   private String name;
   private Boolean deepest;
-  @Relationship(type = "CATEGORY_CHILD_OF", direction = Relationship.Direction.OUTGOING)
-  private CategoryNode parentCategory;
+  @Relationship(type = "CATEGORY_PARENT_OF", direction = Relationship.Direction.OUTGOING)
+  private List<CategoryNode> childCategories;
   @Relationship(type = "CATEGORY_ATTRIBUTE", direction = Relationship.Direction.OUTGOING)
   private List<CategoryToAttributeRelation> attributes;
 
-  public CategoryDto toDto() {
+  public CategoryDto toDto(Boolean withAttributes) {
     return CategoryDto.builder()
         .id(super.getId())
         .name(name)
         .deepest(deepest)
-        .parentCategory(!ObjectUtils.isEmpty(parentCategory) ? parentCategory.toDto()
-            : null)
-        .attributeKeyMap(attributes.stream()
-            .collect(Collectors.toMap(attribute -> attribute.getAttributeKey().getId(),
-                attribute -> attribute.getAttributeKey().toDto())))
+        .childCategoryMap(!CollectionUtils.isEmpty(childCategories) ? childCategories.stream()
+            .collect(Collectors.toMap(BaseNode::getId,
+                categoryNode -> categoryNode.toDto(withAttributes))) : null)
+        .attributeKeyMap(
+            Boolean.TRUE.equals(withAttributes) && !CollectionUtils.isEmpty(attributes)
+                ? attributes.stream()
+                .collect(Collectors.toMap(attribute -> attribute.getAttributeKey().getId(),
+                    attribute -> attribute.getAttributeKey().toDto())) : null)
         .createdDate(super.getCreatedDate())
         .updatedDate(super.getUpdatedDate())
         .build();

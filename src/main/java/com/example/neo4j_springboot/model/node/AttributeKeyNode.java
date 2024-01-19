@@ -13,6 +13,7 @@ import lombok.NoArgsConstructor;
 import lombok.experimental.SuperBuilder;
 import org.springframework.data.neo4j.core.schema.Node;
 import org.springframework.data.neo4j.core.schema.Relationship;
+import org.springframework.util.CollectionUtils;
 
 @Node
 @Data
@@ -33,9 +34,10 @@ public class AttributeKeyNode extends BaseNode implements Serializable {
     return AttributeKeyDto.builder()
         .id(super.getId())
         .name(name)
-        .attributeValueMap(attributeValueList.stream()
-            .collect(Collectors.toMap(BaseNode::getId,
-                AttributeValueNode::toDto)))
+        .attributeValueMap(
+            !CollectionUtils.isEmpty(attributeValueList) ? attributeValueList.stream()
+                .collect(Collectors.toMap(BaseNode::getId,
+                    AttributeValueNode::toDto)) : null)
         .createdDate(super.getCreatedDate())
         .updatedDate(super.getUpdatedDate())
         .build();

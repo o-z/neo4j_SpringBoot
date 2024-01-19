@@ -24,7 +24,7 @@ public class CategoryDto implements Serializable {
   private UUID id;
   private String name;
   private Boolean deepest;
-  private CategoryDto parentCategory;
+  private Map<UUID, CategoryDto> childCategoryMap;
   private Map<UUID, AttributeKeyDto> attributeKeyMap;
   private Date createdDate;
   private Date updatedDate;
